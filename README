@@ -1,0 +1,5 @@
+A small bash script to pull printer usage per tray for HP P3010/P3015 P4515 P3005 4250 4015
+
+requires a file in the same directory called printerip - it should contain a list of printer IP addresses on a new line.
+
+data is pulled via SNMP using the default public community.
